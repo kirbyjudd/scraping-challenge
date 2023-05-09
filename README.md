@@ -14,6 +14,8 @@ Deliverable 1: Scrape titles and preview text from Mars news articles.
 Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
 ## Part 1: Scrape Titles and Preview Text from Mars News
-For part 1 I imported Splinter and BeautifulSoup in order to parse through the html webpage. I extracted all of the text elements on the page and stored them into an empty python list called "mars".
+For the first deliverable, I imported Splinter and BeautifulSoup in order to parse through the html webpage. I extracted all of the text elements on the page and stored them into an empty python list called 'mars'.
 
-Using a for loop, I looped through the text elements in order to extract the content_title and article_teaser_body, which I labeled 'title' and 'preview' respectively into a dictionary called 'mars_dict. The mars_dict was appended to the empty mars list I created. I then printed the mars list to confirm the extraction success.
+Using a for loop, I looped through the text elements in order to extract the content_title and article_teaser_body, which I labeled 'title' and 'preview' respectively into a dictionary called 'mars_dict'. The 'mars_dict' was appended to the empty mars list I created. I lastly printed the mars list to confirm the extraction success.
+
+## Part 2: Scrape and Analyze Mars Weather Data
