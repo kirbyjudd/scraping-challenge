@@ -18,4 +18,7 @@ For the first deliverable, I imported Splinter and BeautifulSoup in order to par
 
 Using a for loop, I looped through the text elements in order to extract the content_title and article_teaser_body, which I labeled 'title' and 'preview' respectively into a dictionary called 'mars_dict'. The 'mars_dict' was appended to the empty mars list I created. I lastly printed the mars list to confirm the extraction success.
 
+I saved the first deliverable notebook as "Part_1_mars_news.ipynb" which is located in the "Starter_Code folder. 
+
 ## Part 2: Scrape and Analyze Mars Weather Data
+For the second deliverable,
