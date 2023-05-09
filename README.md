@@ -1,4 +1,4 @@
-# sraping-challenge
+# scraping-challenge
 Module 11 challenge
 
 # Background
